@@ -93,9 +93,6 @@ A common practice among great software is to do one thing very well. At Simple C
 
 _NOTE: **TaaS** = **T**hing **a**s **a** **S**ervice_
 
-PaaS (platform):
-  * [Heroku](https://www.heroku.com) <img src="https://avatars1.githubusercontent.com/u/23211?v=3&s=16" height="16" />
-
 IaaS (infrastructure):
   * [Amazon Web Services ![Amazon Web Services](https://www.google.com/s2/favicons?domain=aws.amazon.com)](https://aws.amazon.com)
 
@@ -104,6 +101,7 @@ DBaaS (database):
 
 FaaS (functions):
   * [Amazon Lambda](https://aws.amazon.com/lambda) <img src="http://www.stratoscale.com/wp-content/uploads/AWS-Lambda.png" height="16" />
+  * [Webtask.io ![Webtask.io](https://www.google.com/s2/favicons?domain=webtask.io)](http://webtask.io)
 
 AaaS (auth):
   * [Auth0 ![Auth0](https://www.google.com/s2/favicons?domain=auth0.com)](http://auth0.com)
@@ -112,8 +110,7 @@ AaaS (auth):
 ## UI Stack
 Our front end consists of the following frameworks and foundations. As you will see, we are heavily invested in JavaScript.
 
-* Starter project: [NextJs](https://github.com/zeit/next.js) <img src="https://cloud.githubusercontent.com/assets/13041/19686250/971bf7f8-9ac0-11e6-975c-188defd82df1.png" height="16" />
-* Css: [Styled Components ![Styled Components](https://www.google.com/s2/favicons?domain=styled-components.com)](https://www.styled-components.com/)
+* Starter project: [Create React App](https://github.com/facebookincubator/create-react-app)
 * Client side: [ReactJs ![ReactJs](https://www.google.com/s2/favicons?domain=facebook.github.io/react)](https://facebook.github.io/react/)
 * Server side: [NodeJs ![NodeJs](https://www.google.com/s2/favicons?domain=nodejs.org)](https://nodejs.org)
 
