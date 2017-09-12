@@ -126,3 +126,20 @@ All great software is built on some sort of continuous integration. Code built o
 > [Github ![Github](https://www.google.com/s2/favicons?domain=github.com)](https://github.com/simple-city)
 
 Maintaining and organizing our source code should be simple. There is only one source code provider that we consider reliable, of optimal flexibility, and cost effective. There is simply no other alternative to Github.
+
+
+## Continued Education
+
+> [Wes Bos Courses ![Wes Bos Courses](https://www.google.com/s2/favicons?domain=wesbos.com)](http://wesbos.com/courses/)
+
+Our company's core is centered around JavaScript. Below you will find courses that will give you the fundementals and/or refresh what you already know to make you the most efficient developer when working on our stack.
+
+**Preferably in the following order:**
+* [JavaScript30.com](//JavaScript30.com)
+* [ES6.io](//ES6.io)
+* [LearnNode.com](//LearnNode.com)
+* [ReactForBeginners.com](//ReactForBeginners.com)
+* [LearnRedux.com](//LearnRedux.com)
+* [CommandLinePowerUser.com](//CommandLinePowerUser.com)
+
+Some are free. Some are < $100/per. All are priceless.
