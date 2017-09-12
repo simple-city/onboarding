@@ -1,4 +1,4 @@
-[![Simple City](https://cdn.rawgit.com/simple-city/hosted-assets/7dd6cfc9/images/logo-simplecityllc.png)](http://simplecityllc.com)
+<img src="https://cdn.rawgit.com/simple-city/hosted-assets/1bc62dc0/images/logo-scllc-banner-dark.png" width="300px" />
 
 # Onboarding
 General information that is helpful for onboarding new hires.
