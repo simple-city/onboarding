@@ -17,6 +17,7 @@ General information that is helpful for onboarding new hires.
   * [UI Stack](#ui-stack)
   * [Continuous Integration/Deployment](#continuous-integrationdeployment)
   * [Source Control](#source-control)
+  * [Continued Education](#continued-education)
 
 ## Communications
 
