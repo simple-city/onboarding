@@ -117,7 +117,7 @@ Our front end consists of the following frameworks and foundations. As you will 
 ## Continuous Integration/Deployment
 All great software is built on some sort of continuous integration. Code built on tests has proven to be more reliable, easier to troubleshoot, and cheaper to improve upon.
 
-* [CircleCI ![CircleCI](https://www.google.com/s2/favicons?domain=circleci.com)](https://circleci.com)
+> [CircleCI ![CircleCI](https://www.google.com/s2/favicons?domain=circleci.com)](https://circleci.com)
 
 ## Source Control
 
